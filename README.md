@@ -1,4 +1,4 @@
-- 👋 Salam, Men @FaridBroLMN
-- 👀 Men Xoslayiram Programdan Cox Oyrenmek
-- 🌱 Men Calisiram Igra Elemek Java Scriptdi Oyrensem
-- 📫 Mene Messaj Yollamaq Ucun Mene Email Ile Yollayin:feridbrosevindikov@gmail.com
+- 👋 Hi, My Name Is @FaridBroLMN 
+- 👀 I Love To Learn Programming
+- 🌱 My Favorite Program Launguage Is JavaScript
+- 📫 If You Want To Send Me A Email Then  This Is My Email:feridbrosevindikov@gmail.com
