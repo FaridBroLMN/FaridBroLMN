@@ -1,4 +1,4 @@
 - 👋 Hi, My Name Is @FaridBroLMN 
-- 👀 I Love To Learn Programming
+- 👀 I Love Programming
 - 🌱 My Favorite Program Launguages Is JavaScript, HTML, CSS, Python
 - 📫 If You Want To Send Me A Email Then  This Is My Email:feridbrosevindikov@gmail.com
